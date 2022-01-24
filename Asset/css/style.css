@@ -1,0 +1,36 @@
+.root{
+    --dk: #000000;
+    --white: #FFFFFF;
+}
+
+.card{
+    line-height: 2em;
+}
+  
+.navbar h1{
+    color: var(--white);
+}
+
+.hide {
+    display: none;
+}
+  
+li:hover{
+    background-color: var(--white);
+}
+  
+li:active{
+    background-color: lightgray;
+}
+  
+@media only screen and (max-width: 767px){
+    #history-card {
+      display: none;
+    }
+}
+  
+@media screen (min-width: 768px){
+    #search-div {
+      min-height: 100vh;
+    }
+}
