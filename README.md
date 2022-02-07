@@ -1,7 +1,7 @@
-# W6-homework
+# Weather-Dashboard
 
 ## Deploy link
-https://aurorachama.github.io/W6-homework/
+https://aurorachama.github.io/Weather-Dashboard
 
 
 ## Purpose
